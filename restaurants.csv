@@ -1,0 +1,52 @@
+restaurant_id,restaurant_name,locality
+R001,Tandoori Tales,Delhi
+R002,Spice Hub,Mumbai
+R003,Curry House,Bangalore
+R004,Biryani Palace,Hyderabad
+R005,South Indian Café,Chennai
+R006,Street Food Junction,Pune
+R007,Desi Zaika,Kolkata
+R008,Jaipur Rasoi,Jaipur
+R009,Capital Bites,Delhi
+R010,North Curry Spot,Chandigarh
+R011,Taste of Indore,Indore
+R012,Madhya Bhoj,Bhopal
+R013,Lucknow Kebabs,Lucknow
+R014,Kochi Flavours,Kochi
+R015,Mysore Delights,Mysore
+R016,Goan Spice,Goa
+R017,Patna Treats,Patna
+R018,Noida Rasoi,Noida
+R019,Gurgaon Thali,Gurgaon
+R020,Nagpur Zaika,Nagpur
+R021,Delhi Dhaba,Delhi
+R022,Mumbai Masala,Mumbai
+R023,Bengaluru Tandoor,Bangalore
+R024,Hyderabadi Handi,Hyderabad
+R025,Chennai Curry House,Chennai
+R026,Pune Rasoi,Pune
+R027,Kolkata Bhog,Kolkata
+R028,Jaipur Curry House,Jaipur
+R029,Delhi Spice Hut,Delhi
+R030,Chandigarh Chatkara,Chandigarh
+R031,Indore Chatpata,Indore
+R032,Bhopal Bhojanalay,Bhopal
+R033,Lucknowi Zaika,Lucknow
+R034,Kochi Tandoor,Kochi
+R035,Mysore Rasoi,Mysore
+R036,Goa Tandoori,Goa
+R037,Patna Bhojan,Patna
+R038,Noida Food Hub,Noida
+R039,Gurgaon Curry Point,Gurgaon
+R040,Nagpur Thali,Nagpur
+R041,Delhi Zaika,Delhi
+R042,Mumbai Treats,Mumbai
+R043,Bangalore Rasoi,Bangalore
+R044,Hyderabad Zaika,Hyderabad
+R045,Chennai Biryani,Chennai
+R046,Pune Masala,Pune
+R047,Kolkata Treats,Kolkata
+R048,Jaipur Rasmalai,Jaipur
+R049,Delhi Zaafrani,Delhi
+R050,Chandigarh Treats,Chandigarh
+
